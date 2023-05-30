@@ -11,7 +11,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 3. Navigate into the project directory:
 
    ```bash
-   $ cd analyse_findings_app
+   $ cd chat_gpt_flask_app_example
    ```
 
 4. Create a new virtual environment:
